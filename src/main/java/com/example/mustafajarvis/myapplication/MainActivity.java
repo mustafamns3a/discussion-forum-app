@@ -24,7 +24,7 @@ package com.example.mustafajarvis.myapplication;
         import com.google.android.gms.common.api.Status;
 
 
-public class SignInActivity extends AppCompatActivity implements
+public class MainActivity extends AppCompatActivity implements
         GoogleApiClient.OnConnectionFailedListener,
         View.OnClickListener {
 
